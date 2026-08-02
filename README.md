@@ -1,4 +1,4 @@
+I am interested in data science, machine learning, critical / high performance systems, and decentralized, self-organized systems (swarm intelligence, reinforcement learning agents, game theory).
+
 ## Collaborated on
 - [Cambridge Battlecode](https://github.com/lxorb/cbc-muteki)
-- [Highschool Chat App](https://github.com/0Flush0/BGApp)
-- [World Robot Olympiad 2025](https://github.com/0Flush0/WRO-FE-25)
